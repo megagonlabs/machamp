@@ -73,11 +73,11 @@ If you are using the dataset, please cite the following in your work:
 
 ## Disclosure
 
-> Jin: Here I just list the source of all the datasets. We might need to ask Eser how to write this part later.
->
+The datasets are provided "as-is", and its creators make no representation regarding its accuracy. Furthermore, the creators have no obligation to maintain the dataset. 
+The datasets in this repo are constructed based on the following datasets:
 
-* [Deep Martcher](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md): Fodor's and Zagat's restaurant, source is [here](https://www.cs.utexas.edu/users/ml/riddle/data/restaurant.tar.gz)
-* [Deep Martcher](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md): citation from Google Scholar, ACM and DBLP, source is [here](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution)
-* [Magellan](https://sites.google.com/site/anhaidgroup/useful-stuff/data#TOC-The-784-Data-Sets-for-EM): The Book datasets are from Amazon, Barnes & Noble, Goodreads and Half. Source is collected by the creater of Magellan project.
-* [Magellan](https://sites.google.com/site/anhaidgroup/useful-stuff/data#TOC-The-784-Data-Sets-for-EM): The Movie datasets are from Rotten Tomatoes, IMDB, TMD, Amazon and Roger Ebert. Source is collected by the creater of Magellan project.
-* [WDC Product Data](http://webdatacommons.org/largescaleproductcorpus/v2/index.html): The source is collected by the authors of the project.
+* [Deep Martcher](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md): Fodor's and Zagat's restaurant, the link to the originals is [source](https://www.cs.utexas.edu/users/ml/riddle/data/restaurant.tar.gz); citations from Google Scholar, ACM and DBLP, the link to the originals is [source](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution).
+* [Magellan](https://sites.google.com/site/anhaidgroup/useful-stuff/data#TOC-The-784-Data-Sets-for-EM): The Book datasets are from Amazon, Barnes & Noble, Goodreads and Half. Source is collected by the creater of Magellan project; The Movie datasets are from Rotten Tomatoes, IMDB, TMD, Amazon and Roger Ebert. Source is collected by the creater of Magellan project.
+* [WDC Product Data](http://webdatacommons.org/largescaleproductcorpus/v2/index.html): The source is collected by the authors of the WDC product project.
+
+By downloading the data from this repo you agree to the same original licenses, in addition to one provided in this repo.
