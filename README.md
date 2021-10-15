@@ -73,11 +73,18 @@ If you are using the dataset, please cite the following in your work:
 
 ## Disclosure
 
-The datasets are provided "as-is", and its creators make no representation regarding its accuracy. Furthermore, the creators have no obligation to maintain the dataset. 
-The datasets in this repo are constructed based on the following datasets:
+Embedded in, or bundled with, this product are open source software (OSS) components, datasets and other third party components identified below. The license terms respectively governing the datasets and third-party components continue to govern those portions, and you agree to those license terms, which, when applicable, specifically limit any distribution. You may receive a copy of, distribute and/or modify any open source code for the OSS component under the terms of their respective licenses. In the event of conflicts between Megagon Labs, Inc. Recruit Co., Ltd., license conditions and the Open Source Software license conditions, the Open Source Software conditions shall prevail with respect to the Open Source Software portions of the software. 
+You agree not to, and are not permitted to, distribute actual datasets used with the OSS components listed below. You agree and are limited to distribute only links to datasets from known sources by listing them in the datasets overview table below. You are permitted to distribute derived datasets of data sets from known sources by including links to original dataset source in the datasets overview table below. You agree that any right to modify datasets originating from parties other than Megagon Labs, Inc. are governed by the respective third party’s license conditions. 
+All OSS components and datasets are distributed WITHOUT ANY WARRANTY, without even implied warranty such as for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE, and without any liability to or claim against any Megagon Labs, Inc. entity other than as explicitly documented in this README document. You agree to cease using any part of the provided materials if you do not agree with the terms or the lack of any warranty herein.
+While Megagon Labs, Inc., makes commercially reasonable efforts to ensure that citations in this document are complete and accurate, errors may occur. If you see any error or omission, please help us improve this document by sending information to contact@megagon.ai.
 
-* [Deep Martcher](https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md): Fodor's and Zagat's restaurant, the link to the originals is [source](https://www.cs.utexas.edu/users/ml/riddle/data/restaurant.tar.gz); citations from Google Scholar, ACM and DBLP, the link to the originals is [source](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution).
-* [Magellan](https://sites.google.com/site/anhaidgroup/useful-stuff/data#TOC-The-784-Data-Sets-for-EM): The Book datasets are from Amazon, Barnes & Noble, Goodreads and Half. Source is collected by the creater of Magellan project; The Movie datasets are from Rotten Tomatoes, IMDB, TMD, Amazon and Roger Ebert. Source is collected by the creater of Magellan project.
-* [WDC Product Data](http://webdatacommons.org/largescaleproductcorpus/v2/index.html): The source is collected by the authors of the WDC product project.
+All datasets used within the product are listed below (including their copyright holders and the license conditions).
+For Datasets having different portions released under different licenses, please refer to the included source link specified for each of the respective datasets for identifications of dataset files released under the identified licenses.
 
-By downloading the data from this repo you agree to the same original licenses, in addition to one provided in this repo.
+| ID | Dataset | Modified | Copyright Holder | Source Link | License | 
+|------|-----------|------------|------------|-------------|-------|
+| 1 | Fodor's and Zagat's restaurant | Yes | University of Texas | [source](https://www.cs.utexas.edu/users/ml/riddle/data/restaurant.tar.gz) | BSD 3-Clause |
+| 2 | Citations | Yes |  University of Leipzig | [source](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution) | BSD 3-Clause |
+| 3 | Megallan Book and Movie | Yes | University of Wiscosin Madison | [source](https://sites.google.com/site/anhaidgroup/useful-stuff/the-magellan-data-repository) | N/A |
+| 4 | WDC Product Data | Yes | Web Data Commons | [source](http://webdatacommons.org/largescaleproductcorpus/v2/index.html) | Common Crawl Terms of Use |
+
