@@ -85,6 +85,6 @@ For Datasets having different portions released under different licenses, please
 |------|-----------|------------|------------|-------------|-------|
 | 1 | Fodor's and Zagat's restaurant | Yes | University of Texas | [source](https://www.cs.utexas.edu/users/ml/riddle/data/restaurant.tar.gz) | BSD 3-Clause |
 | 2 | Citations | Yes |  University of Leipzig | [source](https://dbs.uni-leipzig.de/en/research/projects/object_matching/fever/benchmark_datasets_for_entity_resolution) | BSD 3-Clause |
-| 3 | Megallan Book and Movie | Yes | University of Wiscosin Madison | [source](https://sites.google.com/site/anhaidgroup/useful-stuff/the-magellan-data-repository) | N/A |
+| 3 | Magellan Book and Movie | Yes | University of Wiscosin Madison | [source](https://sites.google.com/site/anhaidgroup/useful-stuff/the-magellan-data-repository) | N/A |
 | 4 | WDC Product Data | Yes | Web Data Commons | [source](http://webdatacommons.org/largescaleproductcorpus/v2/index.html) | Common Crawl Terms of Use |
 
